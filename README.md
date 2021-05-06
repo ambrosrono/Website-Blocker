@@ -7,10 +7,9 @@ It is very efficient for companies that do not want their employees waste time o
 
 
 To use this script, simply clone this repository and then run website_blocker.py 
-The default script will block facebook from 8 AM to 6 PM. Change the time as you desire.
+The default script will block facebook and youtube from 8 AM to 6 PM. Change the time as you desire.
 
 
 To block more websites, simply add websites url to block_websites list 
-To run this script in the background, 
-use windows task scheduler to run it always.
+To run this script in the background, use windows task scheduler to run it always.
 
